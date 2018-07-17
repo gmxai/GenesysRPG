@@ -1,13 +1,13 @@
 {
-  "name": "Genesys RPG Dice Roller",
-  "script": "Genesys-Dice-Roller.js",
-  "version": "1.1.0",
-  "previousversions": "1.0.0",
-  "description": "This is the Fantasy Flight Games Genesys Role Playing Game System Dice Roller. It is used in combination with the Genesys Character Sheet.",
-  "authors": "GM Knowledge Rhino",
-  "roll20userid": "472728",
+  "name": "Genesys Realms of Terrionoth RPG Dice Roller",
+  "script": "Genesys-RoT-Dice-Roller.js",
+  "version": "1.0.0",
+  "previousversions": "0.0.0",
+  "description": "This is the Fantasy Flight Games Genesys-Realms of Terrinoth Role Playing Game System Dice Roller. It is used in combination with the Realms of Terrinoth Character Sheet.",
+  "authors": "GM Xai",
+  "roll20userid": "???????",
   "useroptions": [],
   "dependencies": [],
   "modifies": {},
-  "conflicts": [ "EotE-Dice.js, FFG-SWRPG-Dice-Roller.js" ]
+  "conflicts": ["EotE-Dice.js, FFG-SWRPG-Dice-Roller.js, Genesys-Dice-Roller.js" ]
 }
