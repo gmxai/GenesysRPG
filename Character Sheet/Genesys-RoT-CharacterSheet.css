@@ -878,12 +878,6 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
     border-bottom: none
 }
 
-.sheet-dice-pool td.sheet-light {
-}
-
-.sheet-dice-pool td.sheet-dark {
-}
-
 .sheet-dice-pool td.sheet-light:nth-child(1) {
     border-left: 1px solid #999;
 }
@@ -1170,10 +1164,6 @@ label.sheet-label-current {
 [name="attr_critAddOffset"],
 [name="attr_critShipAddOffset"] {
     background: #ccc;
-}
-
-.sheet-critical {
-    /*display: none;*/
 }
 
 .sheet-checkbox-criton {
