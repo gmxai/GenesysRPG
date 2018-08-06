@@ -2466,8 +2466,8 @@ eote.process.crit = function (cmd, diceObj) {
         {
             percent: '76 to 80',
             severity: 2,
-            name: 'Staggered',
-            Result: 'Attacker may immediately attempt another free attack against you using same dice pool as original attack.'
+            name: 'Overpowered',
+            Result: 'The target leaves themself open, and the attacker may immediately attempt another attack against them as an incidental, using the exact same pool as the original attack.'
         },
         {
             percent: '81 to 85',
